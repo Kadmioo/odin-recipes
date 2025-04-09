@@ -4,19 +4,21 @@ h1, h2{
     color: rgb(255, 249, 195);
     background-color: rgb(0, 75, 65);
 
-    padding: 4px;
-
-    margin-top: 16px;
-    margin-bottom: 16px;
-    margin-left: 0;
-    margin-right: 0;
+    padding: 8px;
+    margin: 8px;
 }
 
-p, li, ul, ol{
+p, li{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(0, 75, 65);
 }
+
+p{
+    margin: 8px;
+    padding: 8px;
+}
  
 img{
-    height: 512px;
+    height: 256px;
+    margin: 8px;
 }
